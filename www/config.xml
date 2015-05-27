@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.atninecreation.mingshidiangu"
+        id        = "com.atninecreation.dashijingxuan"
         version   = "1.0.0">
 
     <name>大势精选</name>
 
     <description>
-        大师级的股票点评和分析
+        大师级的股票点评和分析（大势精选）
     </description>
 
     <author href="http://atninecreation.com" email="info@atninecreation.com">
